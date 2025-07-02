@@ -1,7 +1,7 @@
 #ECO476
 #LabVI - Application of Econometrics II
 #Group6
-#Author: Rafiul, Farhan, Mahin, Khadija, Toumik, Imam, Atahar, Prosenjit, Eva
+#Author: Rafiul Ahmed (ID 2017231005)
 #Crimes in Boston Dataset
 
 #initial steps- data import, viewing (data and variable)
